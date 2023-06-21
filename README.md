@@ -1,8 +1,10 @@
 # :tshirt: Meteora
 
-Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
+> Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
 
-Website Meteora, é uma loja virtual desenvolvida como parte do processo de aprendizagem e aplicação das melhores práticas.
+O Website Meteora é uma loja virtual desenvolvida com dedicação e expertise para proporcionar aos clientes uma experiência de compras online excepcional. Nosso objetivo é oferecer uma ampla variedade de produtos de moda, incluindo roupas, calçados e acessórios, com qualidade, estilo e conveniência.
+
+Um site intuitiva e fácil de usar, garantindo que os clientes possam navegar pelo site de forma simples e encontrar exatamente o que estão procurando. Com categorias bem definidas e filtros de busca avançados, facilitamos a descoberta dos produtos desejados.
 
 ##
 ##### Visão geral
@@ -24,15 +26,14 @@ Website Meteora, é uma loja virtual desenvolvida como parte do processo de apre
 <div>
     <img height="30em" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img height="30em" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img height="30em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img height="30em" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
 
 </div>
 <br>
 
->HTML5, CSS3 e JavaScript para a estrutura, estilo e interatividade do site.
-Frameworks como Bootstrap.
->Git para controle de versão e colaboração no desenvolvimento do projeto.
+> - HTML5 e CSS3 para a estrutura, estilo e interatividade do site.
+> - Frameworks como Bootstrap.
+> - Git para controle de versão e colaboração no desenvolvimento do projeto.
 
 ##
 
@@ -41,7 +42,7 @@ Frameworks como Bootstrap.
 Clone o repositório: 
 
 ```
-git clone https://github.com/seu-usuario/serenatto-coffee.git
+git clone https://github.com/marciiosouza/meteora.git
 ```
 > Navegue até o diretório do projeto: cd nome-do-repositorio
 Abra o arquivo index.html em um navegador da web.
