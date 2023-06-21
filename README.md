@@ -1,4 +1,4 @@
-# Meteora
+# Meteora Website
 
 > Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
 
